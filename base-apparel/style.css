@@ -8,13 +8,13 @@ body {
    margin: 0;
 }
 
-h2 {
+h1 {
    font-size: 3rem;
    text-transform: uppercase;
    letter-spacing: 0.5rem;
 }
 
-h2 span,
+h1 span,
 p {
    color: hsl(0, 36%, 70%);
 }
@@ -95,7 +95,7 @@ footer {
       flex-direction: column;
    }
 
-   h2 {
+   h1 {
       font-size: 5rem;
       margin: 0;
    }
